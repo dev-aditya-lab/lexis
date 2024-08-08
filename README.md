@@ -1,7 +1,7 @@
 # Auther : ADITYA GUPTA
 > contact me : ad1123itya@gmail.com
-##not 
-##not completed 👽😁
+## not 
+## not completed 👽😁
 
 [visit website](https://lexis-clone-by-adii.vercel.app/)
 
